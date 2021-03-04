@@ -182,8 +182,8 @@ header{
   /*Req 11*/
   .container{
     /*Your code here:*/
-    grid-template-columns: 50px, auto, 500px, auto, 50px;
-    grid-template-rows: 400px, 425px,425px, 400px;
+    grid-template-columns: 50px auto 500px auto 50px;
+    grid-template-rows: 400px 425px 425px 400px;
   }
 
   /*Req 12*/
