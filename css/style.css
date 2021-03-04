@@ -55,6 +55,7 @@ header p{
 nav a{
   color: black;
   font-weight: bold;
+  text-decoration: none;
 
 }
 /*Req 2*/
